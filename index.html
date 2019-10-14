@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script type="text/javascript" src="js/three.js"></script>
+	</head>
+        <div id="world"></div>
+	<body>
+		<style>
+			#world {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                overflow: hidden;
+                background: linear-gradient(#237EAF, #9ED9F9);
+            }
+		</style>
+   
+		<script src="./js/three.js"></script>
+		<script src="./js/main.js"></script>
+		
+	</body>
+</html>
